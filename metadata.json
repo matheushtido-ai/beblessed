@@ -1,0 +1,6 @@
+{
+  "name": "BE BLESSED SERVICES - Professional Cleaning Chicago",
+  "description": "BE BLESSED SERVICES provides professional residential, commercial, post-construction, and move-in/move-out cleaning plus HVAC services throughout Chicago and surrounding suburbs. Serving with Purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
